@@ -8,7 +8,7 @@ exports.config = {
   ],
   services: ['phantomjs', new ZfService(
     { // Service Options
-      refreshToken: 'eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyIiwicGFzc3dvcmQiOiIveU45VDZZaHY5ZHRCeDNmSUFZSmxqeG12YzRObGhrMCIsInRlbmFudCI6InphZmlyYSIsImV4cCI6MTMwMzk3OTc0MzUwfQ.DuKkYg4FnU1Knyas7-YRF-wNk_Uv5wmRqmds44Z134r7VDvyoPr2KZmYZuu5dQIgErfyV4aN0e5zYgWGEebpUg',
+      refreshToken: 'eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIyIiwicGFzc3dvcmQiOiJFREJyZDE4bEV2c2lKa3l3NXJIbmY2KzJwNU5kTWd0YiIsInRlbmFudCI6InphZmlyYSIsImV4cCI6MTMwMzk5NjEzODE4fQ.5v3Pxww8nFsfmtz5O3_0cJ_42MotufX77dZiktVMR7tmx4-F7ksLoZ_whzYizctTkmAo9G1EIeqhHXjy5PuUcA',
       username: 'admin',
       testSuite: {
         fileName: 'test.xml',
